@@ -36,8 +36,7 @@ records, which `finetune.sh` consumes.
 [MIMIC-CXR](https://physionet.org/content/mimic-cxr/),
 [MEDICAT](https://arxiv.org/abs/2010.06000),
 [ImageCLEF](https://www.imageclef.org/).
-Point the combined loader at them via a pretraining config (see
-`data_loaders/loader.py`).
+Point to them in `data_loaders/loader.py`.
 
 ## Fine-tuning on EchoVQA
 
