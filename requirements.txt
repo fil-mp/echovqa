@@ -1,0 +1,14 @@
+torch>=2.0
+torchvision
+accelerate>=0.26
+deepspeed
+transformers>=4.34
+open_clip_torch
+timm
+sentencepiece
+pillow
+pandas
+numpy
+nltk
+tabulate
+tqdm
